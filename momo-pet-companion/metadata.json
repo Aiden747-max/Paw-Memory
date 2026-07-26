@@ -1,8 +1,0 @@
-{
-  "name": "MoMo Pet Companion",
-  "description": "A virtual pet and emotional companion app for MoMo with daily care, community, games, studio, calendar, AI companion, and memory vault.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
